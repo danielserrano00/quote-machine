@@ -1,0 +1,55 @@
+@import url('https://fonts.googleapis.com/css?family=Muli:400, 600|Permanent+Marker');
+
+.btn-primary {
+  background-color: black;
+  border: none;
+}
+body {
+  background-color: black;
+  color: black;
+  font-family: 'Muli', sans-serif;
+  text-align: center;
+  margin: 20px
+}
+.title {
+  color: white;
+  text-align: center;
+  font-family: 'Permanent Marker', cursive;
+  margin: 18% auto auto auto;
+}
+.quote-box {
+  border-radius: 5px;
+  position: center;
+  margin: 2% auto auto auto;
+  background-color: cyan;
+  padding: 30px 40px;
+  width: 600px;
+}
+.quote-text {
+  text-align: left;
+  font-weigth: 600;
+}
+.quote-author {
+  text-align: right;
+  font-weight: 400;
+  text-transform: capitalize;
+}
+.buttons {
+  width: 500px;
+  margin: 2% auto;
+  padding: 5%;
+}
+
+.btn {
+  height: 30px;
+  border: none;
+  outline: none;
+  border-radius: 5px;
+  background-color: black;
+  font-size: 1em;
+  padding: 8px 18px 6px 18px;
+  margin-top: 30px;
+  color: white;
+  cursor: pointer;
+}
+
